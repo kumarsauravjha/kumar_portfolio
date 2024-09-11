@@ -3,7 +3,8 @@
 
 
 body {
-    background-color:#FFF5E1;
+    /* background-color:#f9f8f5; */
+    background-color:#ffffff;
 }
 
 * {
@@ -305,7 +306,7 @@ h4 {
 }
 
 .projects-item {
-    background-color: #FFF5E1; /* Restore your original peach background color */
+    background-color: #ffffff; /* Restore your original peach background color */
     padding: 40px;
     width: 450px; /* Fixed width for uniformity */
     height: 700px;
